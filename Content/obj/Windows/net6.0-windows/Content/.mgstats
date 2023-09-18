@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/hung/Desktop/Pong/Content/../Assets/Sound/hit.wav","C:/Users/hung/Desktop/Pong/Content/bin/Windows/Content/Sound/hit.xnb","SoundEffectProcessor","SoundEffectContent",1059136,1058505,0.8476114
+"C:/Users/hung/Desktop/Pong/Content/../Assets/Sound/score.wav","C:/Users/hung/Desktop/Pong/Content/bin/Windows/Content/Sound/score.xnb","SoundEffectProcessor","SoundEffectContent",1059136,1058505,2.9117086
+"C:/Users/hung/Desktop/Pong/Content/../Assets/Sound/win.wav","C:/Users/hung/Desktop/Pong/Content/bin/Windows/Content/Sound/win.xnb","SoundEffectProcessor","SoundEffectContent",576130,576153,0.7518645
+"C:/Users/hung/Desktop/Pong/Content/Font/font.spritefont","C:/Users/hung/Desktop/Pong/Content/bin/Windows/Content/Font/font.xnb","FontDescriptionProcessor","SpriteFontContent",2434,529439,1.3580158
+"C:/Users/hung/Desktop/Pong/Content/Font/smallfont.spritefont","C:/Users/hung/Desktop/Pong/Content/bin/Windows/Content/Font/smallfont.xnb","FontDescriptionProcessor","SpriteFontContent",2437,37919,0.6892289

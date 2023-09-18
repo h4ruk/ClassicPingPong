@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/hung/Desktop/Pong/Content/../Assets/Sound/win.wav</SourceFile>
+  <SourceTime>2022-07-22T03:55:00.9398614+07:00</SourceTime>
+  <DestFile>C:/Users/hung/Desktop/Pong/Content/bin/Windows/Sound/win.xnb</DestFile>
+  <DestTime>2023-09-19T03:20:26.136606+07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T23:17:54+07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T23:17:54+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
